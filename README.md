@@ -1,8 +1,21 @@
-# React + Vite
+## Estrutura do Projeto
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Dentro da pasta `src` do projeto, encontramos 8 subpastas, sendo que cada uma delas contém um arquivo `index.js`. Os arquivos `index.js` contêm comentários detalhando as tarefas específicas que devem ser realizadas.
 
-Currently, two official plugins are available:
+### Como Executar o Projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#### Instalação de Dependências
+Para instalar todas as dependências necessárias, execute o seguinte comando no terminal:
+
+```bash
+npm i
+```
+
+#### Rodando o Projeto
+Para iniciar o servidor de desenvolvimento, utilize o comando:
+```bash
+npm run dev
+```
+
+#### Isso iniciará o projeto e estará disponível em [http://localhost:5173](http://localhost:5173/).
+
