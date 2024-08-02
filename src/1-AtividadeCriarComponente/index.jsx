@@ -5,7 +5,7 @@
 export default function Home() {
     return (
         <div>
-            
+            <h1>Cardápio da Padaria</h1>
         </div>
     );
 }
