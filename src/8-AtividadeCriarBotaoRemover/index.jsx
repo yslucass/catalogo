@@ -3,6 +3,9 @@
 // No valor do `onClick`, chame a função `removerItemPedidos`.
 // Passe o identificador (`id`) do item como parâmetro para `removerItemPedidos`, o mesmo que você usa no `map`.
 // No conteúdo do botão, coloque o texto "Remover".
+import Header from "./components/Header";
+
+import Footer from "./components/Footer";
 
 import { useState } from "react";
 
